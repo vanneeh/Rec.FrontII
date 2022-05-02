@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+  color: aliceblue;
+  background-color: #0f0f0f;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+}
+
+#list {
+  height: 600px;
+  width: 400px;
+}
+/*# sourceMappingURL=style.css.map */
